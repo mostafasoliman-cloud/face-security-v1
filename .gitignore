@@ -1,0 +1,43 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Face Recognition Data
+FaceSecurity/data/faces.json
+FaceSecurity/data/faces/
+
+# Personal / biometric data
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.webp
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build / Distribution
+build/
+dist/
+*.spec*.pyc

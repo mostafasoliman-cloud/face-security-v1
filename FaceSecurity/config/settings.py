@@ -1,0 +1,9 @@
+CAMERA_INDEX = 0
+
+WINDOW_NAME = "Face Security"
+
+FACE_DATABASE_PATH = "data/faces.json"
+
+FACE_MATCH_THRESHOLD = 0.6
+
+EXIT_KEY = "q"
